@@ -1,6 +1,6 @@
 # GSA Bioinformatics Internship Onboarding Repository 
 
-This repository contains the onboarding information for Big Bioinformatics Lab.
+This repository contains the onboarding information for GSA Bioinformatics Internship.
 
 - [Lab Guidelines](/lab-guidelines/README.md): This document outlines the expectations for lab members, including communication, meetings, and work-life balance.
 - [Good Practices](/good-practicies/README.md): This document provides best practices for lab members, including coding standards, documentation, and version control.
